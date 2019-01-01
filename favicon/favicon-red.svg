@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="625.0025"
+   height="625"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="round-logo-vector-favicon.svg"
+   inkscape:export-filename="/home/matthias/Projects/Edgeryders.Core/Visuals/edgeryders-graphics.git/logo/round-logo/round-logo-vector-favicon.32x32.png"
+   inkscape:export-xdpi="4.9200001"
+   inkscape:export-ydpi="4.9200001">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3479"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3481"
+         d="M 0,500 H 500 V 0 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="87.60149"
+     inkscape:cy="237.92445"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1878"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.445753,-59.10554)">
+    <g
+       transform="matrix(1.25,0,0,-1.25,46.947003,881.60554)"
+       inkscape:label="round logo vector"
+       id="g3473">
+      <g
+         id="g3475">
+        <g
+           id="g1878"
+           transform="translate(121.6,73.6)">
+          <g
+             id="g3483"
+             transform="translate(-109.201,334.403)"
+             style="fill:#f15c33;fill-opacity:1">
+            <path
+               inkscape:connector-curvature="0"
+               d="M 0,0 C 0,138.068 111.93,249.997 250,249.997 388.07,249.997 500.002,138.068 500.002,0 500.002,-138.071 388.07,-250.003 250,-250.003 111.93,-250.003 0,-138.071 0,0"
+               style="fill:#f15c33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path3485" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             d="m 228.4436,405.7204 c 23.112,0 41.849,18.736 41.849,41.846 0,23.112 -18.736,41.848 -41.849,41.848 -23.108,-0.003 -41.846,-18.736 -41.847,-41.848 h 41.85 z"
+             style="fill:#00aeef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+             id="path3529" />
+          <g
+             id="g876"
+             transform="matrix(2.2071793,0,0,2.2071793,-498.04151,-10.934148)">
+            <g
+               transform="translate(220.01475,203.01615)"
+               id="g3515-6">
+              <path
+                 id="path3517-9"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 H 42.652 V -15.32 H 16.374 v -27.781 h 18.923 v -15.32 H 16.374 v -31.688 h 26.278 v -15.923 H 0 Z"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               transform="translate(291.53525,156.90385)"
+               id="g3519-2">
+              <path
+                 id="path3521-2"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 0,0 h 6.463 c 7.956,0 10.063,4.36 10.063,16.082 0,11.261 -2.703,14.71 -10.666,14.71 H 0 Z M 0,-59.92 H -16.367 V 46.112 H 7.658 c 17.718,0 25.538,-8.857 25.538,-30.64 0,-12.612 -2.708,-20.722 -10.358,-26.132 l 12.01,-49.26 H 17.877 L 7.813,-15.315 H 0 Z"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
